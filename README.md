@@ -42,6 +42,9 @@
    4. Extract the files from downloaded zip into the open folder and replace files if necesarry
    5.(Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar) and under "Java" section edit "Maximum memory allocation" value to be at least 8096MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce thу maximum allocation until it's a yellow dash or a green checkmark
   Now you're good to go, hit "Launch" to play minecraft
+  
+ ### Download from Modrinth
+  The modpack is not yet uploaded, but guide will be updated as soon as it'll be up
 
 # MultiMC
 Will be added soon!
