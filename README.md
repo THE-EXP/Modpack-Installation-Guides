@@ -44,7 +44,10 @@
   Now you're good to go, hit "Launch" to play minecraft
 
 # MultiMC
+Will be added soon!
 
 # ATLauncher
+Will be added soon!
 
 # TLauncher
+Will be added soon!
