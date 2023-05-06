@@ -8,13 +8,18 @@ Now, there's two ways to install the modpack, Manually create profile, or Import
 For people new to modding scene, Importing a ready profile is heavily recommended, as you won't have to worry about messing something up, however it's up to you which path shall you choose, i will now wlak you through the both methods of installation
 ### Import a ready profile
 1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link)
-2. In CurseForge click on "Create Custom Profile" in the top-center, then at the top of the newly formed window, click "import"
+2. In CurseForge click on "Create Custom Profile" in the top-center
 ![Create profile](screenshots/CurseForge_both_click_create_new_profile.png)
+3. Ten at the top of the newly formed window, click "import"
 ![Import your profile](screenshots/CurseForge_import_create_profile.png)
-3. Navigate to the folder you've downloaded the profile into(usually it's ..\Downloads) and click on it
-4. You're done, CurseForge will download all the mods and set up the environment for you, all you need now is to wait
-5. (Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left) and under "Game Specific" section click on "Minecraft", scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
-![](screenshots/)
+4 Navigate to the folder you've downloaded the profile into(usually it's ..\Downloads) and click on it
+5 You're done, CurseForge will download all the mods and set up the environment for you, all you need now is to wait
+6 (Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left)
+![Click on the settings!](screenshots/CurseForge_optional_click_CF_settings.png)
+7. (Optional, Recommended) Then under "Game Specific" section click on "Minecraft"
+![Click on Minecraft](screenshots/CurseForge_optional_click_minecraft.png)
+8. (Optional, Recommended) Scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
+![And increase the memory](screenshots/CurseForge_optional_increase_allocated_memory.png)
 ### Manually create a profile
 1. If not already, download raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
 2. In CurseForge click on "Create Custom Profile"
