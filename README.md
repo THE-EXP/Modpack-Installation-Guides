@@ -14,15 +14,25 @@ For people new to modding scene, Importing a ready profile is heavily recommende
 ![Import your profile](screenshots/CurseForge_import_create_profile.png)
 
 4 Navigate to the folder you've downloaded the profile into(usually it's ..\Downloads) and click on it
+
 5 You're done, CurseForge will download all the mods and set up the environment for you, all you need now is to wait
+
 6 (Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left)
+
 ![Click on the settings!](screenshots/CurseForge_optional_click_CF_settings.png)
 
 7. (Optional, Recommended) Then under "Game Specific" section click on "Minecraft"
+
 ![Click on Minecraft](screenshots/CurseForge_optional_click_minecraft.png)
 
 8. (Optional, Recommended) Scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
+
 ![And increase the memory](screenshots/CurseForge_optional_increase_allocated_memory.png)
+
+Just make sure you have enough Ram available on your system
+
+![Mind the RAM!](screenshots/Taskmgr_ram_available.png)
+
 ### Manually create a profile
 1. If not already, download raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
 2. In CurseForge click on "Create Custom Profile"
