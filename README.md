@@ -34,7 +34,7 @@ For people new to modding scene, Importing a ready profile is heavily recommende
 
 ![Click on Minecraft](screenshots/CurseForge_optional_click_minecraft.png)
 
-8. (Optional, Recommended) Scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
+8. (Optional, Recommended) Scroll a little bit down and increase the "Allocated Memory" to at least 8192MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
 
 ![And increase the memory](screenshots/CurseForge_optional_increase_allocated_memory.png)
 
@@ -73,7 +73,7 @@ Just make sure you have enough Ram available on your system
 
 ![Click on Minecraft](screenshots/CurseForge_optional_click_minecraft.png)
 
-9. (Optional, Recommended) Scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
+9. (Optional, Recommended) Scroll a little bit down and increase the "Allocated Memory" to at least 8192MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
 
 ![And increase the memory](screenshots/CurseForge_optional_increase_allocated_memory.png)
 
@@ -97,24 +97,43 @@ For Prism Launcher there's three ways of installing the modpack, Manual, import 
 ### Import a ready profile
 1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link)
 
-2. In Prism click on "Add instance" in the top-left corner, then at the top of the newly formed window, click "import from zip", then click "Browse"
+2. In Prism click on "Add instance" in the top-left corner
+
+![Add instance](screenshots/Prism_add_instance.png)
+
+3. Then at the side of the newly formed window click "import from zip"
+
+![Add from zip](screnshots/Prism_import_zip.png)
+
+4. Then click "Browse"
 
 3. Navigate to the folder you've downloaded the profile into(usually it's ..\Downloads) and click on it, then click "Ok" at the bottom of the window
 
 4. You're done, Prism will download all the mods and set up the environment for you, all you need now is to wait
 
-5.(Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar) and under "Java" section edit "Maximum memory allocation" value to be at least 8096MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce thу maximum allocation until it's a yellow dash or a green checkmark
+5.(Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar)
+Under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce thу maximum allocation until it's a yellow dash or a green checkmark
 
 ### Manually create a profile
 1. If not already, download raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
 
-2. In Prism click on "Add Instance", Select parameters as shown on the screenshot below and name the profile how you want, after all that, hit "Ok" and wait while Prism prepares minecraft environment
+2. In Prism click on "Add Instance"
 
-3. Now, when the environment preparation is complete, click on the instance and then hit "Folder", in the opened explorer window navigate inside folder named "minecraft"
+![Add instance](screenshots/Prism_add_instance.png)
 
-4. Extract the files from downloaded zip into the open folder and replace files if necesarry
+3. Select parameters as shown on the screenshot below and name the profile how you want
 
-5. (Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar) and under "Java" section edit "Maximum memory allocation" value to be at least 8096MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce thу maximum allocation until it's a yellow dash or a green checkmark
+![Instance parameters](screenshots/Prism_manual_parameters.png)
+
+4. After all that, hit "Ok" and wait while Prism prepares minecraft environment
+
+3. Now, when the environment preparation is complete, click on the instance and then hit "Folder" in the side menu
+4. In the opened explorer window navigate inside folder named "minecraft"
+
+4. Extract the files from downloaded zip into the open folder and replace files/merge folders if necesarry
+
+5. (Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar)
+Then under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce thу maximum allocation until it's a yellow dash or a green checkmark
   Now you're good to go, hit "Launch" to play minecraft
   
 ### Download from Modrinth
