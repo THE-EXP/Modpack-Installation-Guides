@@ -9,14 +9,14 @@
   ### Import a ready profile
    1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link)
    2. In CurseForge click on "Create Custom Profile" in the top-center, then at the top of the newly formed window, click "import"
-   [Create profile](./CurseForge_both_click_create_new_profile.jpg)
+   [Create profile](screenshots/CurseForge_both_click_create_new_profile.png)
    3. Navigate to the folder you've downloaded the profile into(usually it's ..\Downloads) and click on it
    4. You're done, CurseForge will download all the mods and set up the environment for you, all you need now is to wait
    5.(Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left) and under "Game Specific" section click on "Minecraft", scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
   ### Manually create a profile
    1. If not already, download raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
    2. In CurseForge click on "Create Custom Profile", Select parameters as shown on the Screenshot below and name the profile how you want, after all that, hit "Create" and wait while CurseForge prepares minecraft environment
-
+   [Create profile](screenshots/CurseForge_both_click_create_new_profile.png)
    3. Now, when the environment preparation is complete, click on three dots near "Play" button and then hit "Open Folder"
    4. Extract the files from downloaded zip into the open folder and replace files if necesarry
    5.(Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left) and under "Game Specific" section click on "Minecraft", scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
