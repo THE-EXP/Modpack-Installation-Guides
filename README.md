@@ -10,25 +10,39 @@ For people new to modding scene, Importing a ready profile is heavily recommende
 1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link)
 2. In CurseForge click on "Create Custom Profile" in the top-center
 ![Create profile](screenshots/CurseForge_both_click_create_new_profile.png)
-3. Ten at the top of the newly formed window, click "import"
+3. Then at the top of the newly formed window, click "import"
 ![Import your profile](screenshots/CurseForge_import_create_profile.png)
+
 4 Navigate to the folder you've downloaded the profile into(usually it's ..\Downloads) and click on it
 5 You're done, CurseForge will download all the mods and set up the environment for you, all you need now is to wait
 6 (Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left)
 ![Click on the settings!](screenshots/CurseForge_optional_click_CF_settings.png)
+
 7. (Optional, Recommended) Then under "Game Specific" section click on "Minecraft"
 ![Click on Minecraft](screenshots/CurseForge_optional_click_minecraft.png)
+
 8. (Optional, Recommended) Scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
 ![And increase the memory](screenshots/CurseForge_optional_increase_allocated_memory.png)
 ### Manually create a profile
 1. If not already, download raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
 2. In CurseForge click on "Create Custom Profile"
+
 ![Create profile](screenshots/CurseForge_both_click_create_new_profile.png)
+
 3. Select parameters as shown on the Screenshot below and name the profile how you want, after all that, hit "Create" and wait while CurseForge prepares minecraft environment
+
 ![Select parameters](screenshots/CurseForge_manual_parameters.png)
-4. Now, when the environment preparation is complete, click on three dots near "Play" button and then hit "Open Folder"
-5. Extract the files from downloaded zip into the open folder and replace files if necesarry
-6.(Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left) and under "Game Specific" section click on "Minecraft", scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
+
+4. Now, when the environment preparation is complete, click on three dots near "Play" button
+
+![Hit the three dots](screenshots/CurseForge_manual_click_three_dots.png)
+
+5. Then hit "Open Folder"
+
+![Then click on "Open Folder"](screenshots/CurseForge_manual_click_open_folder.png)
+
+6. Extract the files from downloaded zip into the open folder and replace files if necesarry
+7.(Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left) and under "Game Specific" section click on "Minecraft", scroll a little bit down and increase the "Allocated Memory" to at least 8096MB(8GB) for the best performance, however the more you allocate - the better, just make sure that you have enough RAM available on your PC
 Now you're good to go, hit "Play" and launch minecraft
 
 # Prism Launcher
