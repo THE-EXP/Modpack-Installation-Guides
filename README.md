@@ -103,7 +103,7 @@ For Prism Launcher there's three ways of installing the modpack, Manual, import 
 
 3. Then at the side of the newly formed window click "import from zip"
 
-![Add from zip](screnshots/Prism_import_from_zip.png)
+![Add from zip](screenshots/Prism_import_from_zip.png)
 
 4. Then click "Browse"
 
