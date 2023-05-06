@@ -95,7 +95,7 @@ Now you're good to go, hit "Play" and launch minecraft
 For Prism Launcher there's three ways of installing the modpack, Manual, import CF profile, or download from Modrinth
 
 ### Import a ready profile
-1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link)
+1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link), or raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
 
 2. In Prism click on "Add instance" in the top-left corner
 
