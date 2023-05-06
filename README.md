@@ -103,16 +103,29 @@ For Prism Launcher there's three ways of installing the modpack, Manual, import 
 
 3. Then at the side of the newly formed window click "import from zip"
 
-![Add from zip](screnshots/Prism_import_zip.png)
+![Add from zip](screnshots/Prism_import_from_zip.png)
 
 4. Then click "Browse"
 
+![Hit "Browse"](screenshots/Prism_browse_for_modpack.png)
+
 3. Navigate to the folder you've downloaded the profile into(usually it's ..\Downloads) and click on it, then click "Ok" at the bottom of the window
+
+![Hit "Ok"](screenshots/Prism_click_ok.png)
 
 4. You're done, Prism will download all the mods and set up the environment for you, all you need now is to wait
 
 5.(Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar)
-Under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce thу maximum allocation until it's a yellow dash or a green checkmark
+
+![Go to settings](screenshots/Prism_goto_settings.png)
+
+6. Under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce the maximum allocation until it's a yellow tilde(~) or a green checkmark
+
+![Go to Java section](screenshots/Prism_goto_java.png)
+
+![Normal RAM allocation](screenshots/Prism_ram_ok.png)
+![Ok RAM allocation](screenshots/Prism_ram_near_max.png)
+![RAM allocation might cause problems](screenshots/Prism_ram_not_recommended.png)
 
 ### Manually create a profile
 1. If not already, download raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
