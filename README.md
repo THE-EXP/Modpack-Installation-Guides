@@ -63,6 +63,8 @@ Just make sure you have enough Ram available on your system
 
 6. Extract the files from downloaded zip into the newly opened window and replace files/merge folders if prompted
 
+![Drag files over!](screenshots/Files_drag_over.png)
+
 7. (Optional, Recommended) go to CurseForge's settings(the gear in the bottom-left)
 
 ![Click on the settings!](screenshots/CurseForge_optional_click_CF_settings.png)
