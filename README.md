@@ -119,7 +119,7 @@ For Prism Launcher there's three ways of installing the modpack, Manual, import 
 
 ![Go to settings](screenshots/Prism_goto_settings.png)
 
-6. Under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce the maximum allocation until it's a yellow tilde(~) or a green checkmark
+6.(Optional, Recommended) Under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce the maximum allocation until it's a yellow tilde(~) or a green checkmark
 
 ![Go to Java section](screenshots/Prism_goto_java.png)
 
@@ -145,15 +145,25 @@ For Prism Launcher there's three ways of installing the modpack, Manual, import 
 
 4. Extract the files from downloaded zip into the open folder and replace files/merge folders if necesarry
 
-5. (Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar)
-Then under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce thу maximum allocation until it's a yellow dash or a green checkmark
-  Now you're good to go, hit "Launch" to play minecraft
+5.(Optional, Recommended) go to Prism's settings(the "Settings" button in the toolbar)
+
+![Go to settings](screenshots/Prism_goto_settings.png)
+
+6.(Optional, Recommended) Under "Java" section edit "Maximum memory allocation" value to be at least 8192MiB, Prism should tell you if that ammount is safe to be allocated with your system's available memory(RAM), if you see a red cross, reduce the maximum allocation until it's a yellow tilde(~) or a green checkmark
+
+![Go to Java section](screenshots/Prism_goto_java.png)
+
+![Normal RAM allocation](screenshots/Prism_ram_ok.png)
+![Ok RAM allocation](screenshots/Prism_ram_near_max.png)
+![RAM allocation might cause problems](screenshots/Prism_ram_not_recommended.png)
+
+Now you're good to go, hit "Launch" to play minecraft
   
 ### Download from Modrinth
 The modpack is not yet uploaded, but guide will be updated as soon as it'll be up
 
 # MultiMC
-Instructions are the same as for Prism! not much differences
+Instructions are the same as for Prism! not much differences, except MultiMC doesn't show if allocated RAM is safe or not, so be mindful!
 
 # ATLauncher
 Will be added soon!
