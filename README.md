@@ -153,7 +153,7 @@ Then under "Java" section edit "Maximum memory allocation" value to be at least 
 The modpack is not yet uploaded, but guide will be updated as soon as it'll be up
 
 # MultiMC
-Will be added soon!
+Instructions are the same as for Prism! not much differences
 
 # ATLauncher
 Will be added soon!
