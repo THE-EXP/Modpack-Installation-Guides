@@ -12,7 +12,7 @@ Now, there's two ways to install the modpack, Manually create profile, or Import
 For people new to modding scene, Importing a ready profile is heavily recommended, as you won't have to worry about messing something up, however it's up to you which path shall you choose, i will now walk you through the both methods of installation
 
 ### Import a ready profile
-1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link)
+1. If not already download a Ready CF profile of the desired season from [Here](https://drive.google.com/drive/folders/10sB3H1lroabUVkUj3YR68M-hDPYpU48b?usp=sharing)
 
 2. In CurseForge click on "Create Custom Profile" in the top-center
 
@@ -95,7 +95,7 @@ Now you're good to go, hit "Play" and launch minecraft
 For Prism Launcher there's three ways of installing the modpack, Manual, import CF profile, or download from Modrinth
 
 ### Import a ready profile
-1. If not already download a Ready CF profile from [Here](https://drive.google.com/file/d/11OQbEpRqpcFkeRE3G_jwlXbwtKBrHZs3/view?usp=share_link), or raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
+1. If not already download a Ready CF profile of the desired season from [Here](https://drive.google.com/drive/folders/10sB3H1lroabUVkUj3YR68M-hDPYpU48b?usp=sharing), or raw modpack files from [Here](https://www.dropbox.com/sh/bysbawq6t98li80/AAALsWCoH41dsXaiBdDc2efRa?dl=0)
 
 2. In Prism click on "Add instance" in the top-left corner
 
